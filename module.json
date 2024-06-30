@@ -31,5 +31,8 @@
   },
   "scripts": [
     "scripts/entry.js"
-  ]
+  ],
+  "compatibility": {
+    "verified": "11"
+  }
 }
