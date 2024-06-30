@@ -12,5 +12,8 @@
       "name": "drag-ruler",
       "type": "module",
       "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
-    }]
+    }],
+    "scripts": [
+      "scripts/entry.js"
+    ]
   }
