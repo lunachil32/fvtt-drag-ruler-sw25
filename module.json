@@ -1,19 +1,35 @@
 {
-    "id": "drag-ruler-integration-for-sw25",
-    "title": "Drag Ruler for Sword World 2.5",
-    "description": "a Drag Ruler integration for Sword World 2.5.",
-    "authors": [
-      {
+  "id": "drag-ruler-integration-for-sw25",
+  "title": "Drag Ruler for Sword World 2.5",
+  "description": "a Drag Ruler integration for Sword World 2.5.",
+  "authors": [
+    {
       "name": "Opabinia"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "sw25",
+        "type": "system",
+        "manifest": "https://github.com/jeannjeann/sw25-fvtt/releases/download/0.8.0/system.json",
+        "compatibility": {
+          "verified": "1.5.0"
+        }
       }
     ],
-    "dependencies": [
-    {
-      "name": "drag-ruler",
-      "type": "module",
-      "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
-    }],
-    "scripts": [
-      "scripts/entry.js"
+    "requires": [
+      {
+        "id": "drag-ruler",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json",
+        "compatibility": {
+          "verified": "1.13.0"
+        }
+      }
     ]
-  }
+  },
+  "scripts": [
+    "scripts/entry.js"
+  ]
+}
