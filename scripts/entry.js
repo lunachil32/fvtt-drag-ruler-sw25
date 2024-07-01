@@ -9,8 +9,7 @@ Hooks.once("dragRuler.ready", (SpeedProvider) => {
         }
 
         getRanges(token) {
-            const actor = token.actor;
-            const systemData = actor.system;
+            const systemData = token.actor.system;
 
             const ranges = [
                 {range: systemData.attributes.move.limited, color: "limited"},
