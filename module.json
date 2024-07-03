@@ -37,7 +37,7 @@
     "minimum": "11"
   },
   "url": "https://github.com/lunachil32/fvtt-drag-ruler-sw25.git",
-  "manifest": "https://github.com/lunachil32/fvtt-drag-ruler-sw25/releases/download/v0.1/module.json",
-  "download": "https://github.com/lunachil32/fvtt-drag-ruler-sw25/releases/download/v0.1/module.zip",
+  "manifest": "https://github.com/lunachil32/fvtt-drag-ruler-sw25/releases/download/v0.2/module.json",
+  "download": "https://github.com/lunachil32/fvtt-drag-ruler-sw25/releases/download/v0.2/module.zip",
   "version": "0.2"
 }
