@@ -2,9 +2,9 @@ Hooks.once("dragRuler.ready", (SpeedProvider) => {
     class SwordWorld25SpeedProvider extends SpeedProvider {
         get colors() {
             return [
-                {id: "limited", default: 0x0080FF, name: "speeds.limited"},
-                {id: "normal", default: 0x80FF00, name: "speeds.normal"},
-                {id: "max", default: 0xFF8000, name: "speeds.max"}
+                {id: "limited", default: 0x0080FF, name: "制限移動"},
+                {id: "normal", default: 0x80FF00, name: "通常移動"},
+                {id: "max", default: 0xFF8000, name: "全力移動"}
             ];
         }
 
