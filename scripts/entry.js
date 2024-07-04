@@ -1,10 +1,14 @@
 Hooks.once("dragRuler.ready", (SpeedProvider) => {
     class SwordWorld25SpeedProvider extends SpeedProvider {
         get colors() {
+            const limitedMoveLavelName = game.i18n.localize("DragRulerIntegrationForSw25.Limitedmove");
+            const normalMoveLavelName = game.i18n.localize("DragRulerIntegrationForSw25.Normalmove");
+            const maxMoveLavelName = game.i18n.localize("DragRulerIntegrationForSw25.Maxmove");
+
             return [
-                {id: "limited", default: 0x0080FF, name: "制限移動"},
-                {id: "normal", default: 0x80FF00, name: "通常移動"},
-                {id: "max", default: 0xFF8000, name: "全力移動"}
+                {id: "limited", default: 0x0080FF, name: limitedMoveLavelName},
+                {id: "normal", default: 0x80FF00, name: normalMoveLavelName},
+                {id: "max", default: 0xFF8000, name: maxMoveLavelName}
             ];
         }
 
