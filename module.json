@@ -38,6 +38,11 @@
   },
   "languages": [
     {
+      "lang": "en",
+      "name": "English",
+      "path": "l10n/en.json"
+    },
+    {
       "lang": "ja",
       "name": "Japanese",
       "path": "l10n/ja.json"
