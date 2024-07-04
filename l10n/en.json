@@ -1,0 +1,8 @@
+{
+    "DragRulerIntegrationForSw25" :
+    {
+        "Limitedmove": "limited move",
+        "Normalmove": "normal move",
+        "Maxmove": "max move"
+    }
+}
