@@ -14,7 +14,7 @@
         "type": "system",
         "manifest": "https://github.com/jeannjeann/sw25-fvtt/releases/download/0.8.0/system.json",
         "compatibility": {
-          "verified": "1.5.0"
+          "verified": "0.8.1"
         }
       }
     ],
@@ -24,7 +24,7 @@
         "type": "module",
         "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json",
         "compatibility": {
-          "verified": "1.13.0"
+          "verified": "1.13.8"
         }
       }
     ]
