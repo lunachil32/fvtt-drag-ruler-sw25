@@ -1,3 +1,5 @@
+.idea
+
 /foundry*.js
 artifact/
 wasm/
