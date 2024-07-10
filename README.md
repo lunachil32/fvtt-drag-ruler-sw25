@@ -10,6 +10,15 @@
 
 ## 導入方法
 
+### 推奨
+
+モジュールインストーラで `Drag Ruler for Sword World 2.5` を検索し、インストールを選択することで導入できます。
+
+![image](https://github.com/lunachil32/fvtt-drag-ruler-sw25/assets/17611190/534dbf10-2d3e-40d9-b0d1-f1884c4c5dd9)
+
+
+###　古いやり方
+
 FoundryVTT のモジュールインストーラで下記URLを貼り付けてインストールしてください。
 
 ```

@@ -8,6 +8,15 @@ The system will now color-code based on four categories: `Limited Move`, `Normal
 
 ## Installation
 
+### Recommended
+
+You can install it by searching for Drag Ruler for Sword World 2.5 in the module installer and selecting install.
+
+![image](https://github.com/lunachil32/fvtt-drag-ruler-sw25/assets/17611190/534dbf10-2d3e-40d9-b0d1-f1884c4c5dd9)
+
+
+### Previous
+
 Paste the url into the foundry module installer.
 
 ```
