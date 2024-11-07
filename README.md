@@ -17,7 +17,7 @@
 ![image](https://github.com/lunachil32/fvtt-drag-ruler-sw25/assets/17611190/534dbf10-2d3e-40d9-b0d1-f1884c4c5dd9)
 
 
-###　古いやり方
+### 古いやり方
 
 FoundryVTT のモジュールインストーラで下記URLを貼り付けてインストールしてください。
 
